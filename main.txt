@@ -1,0 +1,2 @@
+THis is main.txt file in master branch.
+Welcome to new assignment 3
